@@ -17,6 +17,12 @@ You have some feed subscriptions:
 16. Reiseblog Travel on Toast
 17. SKY OVER HIMMELGEIST
 18. TAXIMANN
+<<<<<<< Updated upstream
 20. theycallitkleinparis
 21. umsturzvegan
 22. volkerkocht
+=======
+19. theycallitkleinparis
+20. umsturzvegan
+21. volkerkocht
+>>>>>>> Stashed changes
