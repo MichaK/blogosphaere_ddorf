@@ -13,7 +13,7 @@ You have some feed subscriptions:
 13. http://dddorf.tumblr.com/
 14. http://theveganfoodnerd.com/feed/
 15. http://duesseldorflocals.tumblr.com/rss
-16. Reiseblog Travel on Toast
+16. http://www.travelontoast.de/feed/
 17. SKY OVER HIMMELGEIST
 18. http://taximann-juergen.blogspot.com/feeds/posts/default
 19. http://www.theycallitkleinparis.de/feed/
