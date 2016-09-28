@@ -7,7 +7,7 @@ You have some feed subscriptions:
 6. http://www.buedchenblog.com/feed/
 8. http://duessel-flaneur.tumblr.com/rss
 9. http://www.flingern.net/feed/
-10. Foodblog mit gesunden vegetarischen Rezepten
+10. http://www.feines-gemuese.com/feeds/posts/default
 11. Friedensplätzchen
 12. http://halbangst.tumblr.com/rss
 13. http://dddorf.tumblr.com/
