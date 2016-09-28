@@ -1,28 +1,23 @@
 You have some feed subscriptions:
-1. (rh)eintopf
+1. http://www.rheintopf.com/feed/
 2. 2käsehoch
-3. BilkOrama
+3. http://www.bilkorama.de/feed/
 4. Critical Mass Düsseldorf
 5. dierudola
-6. Duesseldorfer Buedchenblog
-7. DUSgram
-8. Düssel-Flaneur
-9. Flingern.net – Der Blog für Düsseldorf Flingern
+6. http://www.buedchenblog.com/feed/
+8. http://duessel-flaneur.tumblr.com/rss
+9. http://www.flingern.net/feed/
 10. Foodblog mit gesunden vegetarischen Rezepten
 11. Friedensplätzchen
-12. Halbangst Blog
+12. http://halbangst.tumblr.com/rss
 13. http://dddorf.tumblr.com/
 14. http://theveganfoodnerd.com/feed/
-15. Locals
+15. http://duesseldorflocals.tumblr.com/rss
 16. Reiseblog Travel on Toast
 17. SKY OVER HIMMELGEIST
-18. TAXIMANN
-<<<<<<< Updated upstream
-20. theycallitkleinparis
-21. umsturzvegan
-22. volkerkocht
-=======
-19. theycallitkleinparis
-20. umsturzvegan
+18. http://taximann-juergen.blogspot.com/feeds/posts/default
+19. http://www.theycallitkleinparis.de/feed/
+20. http://umsturzvegan.de/feed/
 21. volkerkocht
->>>>>>> Stashed changes
+22. http://topf-und-loeffel.de/feed/
+23. http://düsselblog.de/rss
