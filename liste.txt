@@ -1,15 +1,15 @@
 You have some feed subscriptions:
 1. http://www.rheintopf.com/feed/
-2. 2käsehoch
+2. https://2kaesehoch.wordpress.com/feed/
 3. http://www.bilkorama.de/feed/
 4. Critical Mass Düsseldorf
-5. dierudola
+5. 
 6. http://www.buedchenblog.com/feed/
 7. http://vegan-und-lecker.de/feed/
 8. http://duessel-flaneur.tumblr.com/rss
 9. http://www.flingern.net/feed/
 10. http://www.feines-gemuese.com/feeds/posts/default
-11. Friedensplätzchen
+11. 
 12. http://halbangst.tumblr.com/rss
 13. http://dddorf.tumblr.com/
 14. http://theveganfoodnerd.com/feed/
