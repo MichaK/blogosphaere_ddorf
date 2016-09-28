@@ -21,3 +21,5 @@ You have some feed subscriptions:
 21. volkerkocht
 22. http://topf-und-loeffel.de/feed/
 23. http://düsselblog.de/rss
+24. http://lisascloseup.de/feed
+25. http://i-heart-dusseldorf.tumblr.com/rss
